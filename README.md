@@ -1,10 +1,10 @@
 <h1 align="center">NBA Gambling</h1>
 
 <div align="center">
-  <img src="http://www.casinocenter.com/wp-content/uploads/2010/04/sportsbet31.jpg" alt="nba" width="400"/>
+  <img src="https://www.legitgamblingsites.com/wp-content/uploads/2017/03/7-nba-betting-tips-for-newbies.png" alt="nba" height="400"/>
 </div>
 
-This project uses machine learning to predict NBA game outcomes, and determine when to bet over the line and when to bet under.
+This project leverages machine learning techniques to predict NBA game outcomes, and determine when to bet over the line and when to bet under.
 
 ## Contents
 * [Conditional Breakdown](Betting Recommendation Analysis.ipynb) - This file examines the probability of winning the line bet with a Neural Net model under various conditions.
@@ -18,12 +18,12 @@ https://nbalinebetting.glitch.me
 * BeautifulSoup
 * Pandas
 
-### Machine Learning
+### ML Modeling 
 * Sklearn
 * Xgboost
 * Keras
 * TPOT
 
-### Visualization Tools
+### Visualization
 * Seaborn
 * Matplotlib
